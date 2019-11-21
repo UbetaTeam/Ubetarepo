@@ -1,0 +1,14 @@
+C:\Users\PC 1\source\repos\Ubeta\Ubeta\bin\Debug\netstandard2.0\Ubeta.deps.json
+C:\Users\PC 1\source\repos\Ubeta\Ubeta\bin\Debug\netstandard2.0\Ubeta.dll
+C:\Users\PC 1\source\repos\Ubeta\Ubeta\bin\Debug\netstandard2.0\ref\Ubeta.dll
+C:\Users\PC 1\source\repos\Ubeta\Ubeta\bin\Debug\netstandard2.0\Ubeta.pdb
+C:\Users\PC 1\source\repos\Ubeta\Ubeta\obj\Debug\netstandard2.0\Ubeta.csprojAssemblyReference.cache
+C:\Users\PC 1\source\repos\Ubeta\Ubeta\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PC 1\source\repos\Ubeta\Ubeta\obj\Debug\netstandard2.0\Views\Signuppage.xaml.g.cs
+C:\Users\PC 1\source\repos\Ubeta\Ubeta\obj\Debug\netstandard2.0\Ubeta.csproj.CoreCompileInputs.cache
+C:\Users\PC 1\source\repos\Ubeta\Ubeta\obj\Debug\netstandard2.0\Ubeta.AssemblyInfoInputs.cache
+C:\Users\PC 1\source\repos\Ubeta\Ubeta\obj\Debug\netstandard2.0\Ubeta.AssemblyInfo.cs
+C:\Users\PC 1\source\repos\Ubeta\Ubeta\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PC 1\source\repos\Ubeta\Ubeta\obj\Debug\netstandard2.0\Ubeta.dll
+C:\Users\PC 1\source\repos\Ubeta\Ubeta\obj\Debug\netstandard2.0\ref\Ubeta.dll
+C:\Users\PC 1\source\repos\Ubeta\Ubeta\obj\Debug\netstandard2.0\Ubeta.pdb
